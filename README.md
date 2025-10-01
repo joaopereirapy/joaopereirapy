@@ -14,7 +14,7 @@ Me chamo João Vitor Pereira, tenho 21 anos e sou natural de Brasilia-DF. Conclu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/admjoaovitor77-droid" target="_blank">
+  <a href="https://github.com/joaopereirapy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
