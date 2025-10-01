@@ -10,7 +10,7 @@ Me chamo João Vitor Pereira, tenho 21 anos e sou natural de Brasilia-DF. Conclu
 ## 🌐 Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/joaovitorpereiradev" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/joaovitorpereiradev/ target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
