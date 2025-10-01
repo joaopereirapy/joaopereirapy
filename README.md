@@ -1,4 +1,4 @@
-<h1 align="center"> JOÃO VITOR PEREIRA </h1>
+<h1 align="left"> 👨🏽‍💻 JOÃO VITOR PEREIRA </h1>
 
 **`Desenvolvedor Python`**
 
